@@ -18,6 +18,15 @@ Proyek ini adalah klon TikTok yang dikembangkan menggunakan Nuxt 3 untuk front-e
 2. Dark Mode
 3. Popup Notification
 
+## Teknologi yang Digunakan
+1. Nuxt 3: Framework modern untuk pengembangan front-end.
+2. Vue 3: Library JavaScript reaktif untuk antarmuka pengguna.
+3. Tailwind CSS: Framework CSS untuk styling.
+4. Laravel API: Framework PHP untuk pengembangan back-end.
+5. Pinia: State management yang ringan untuk Vue.
+6. Axios: Library untuk melakukan request HTTP ke API.
+7. JavaScript: Bahasa pemrograman utama untuk pengembangan front-end.
+
 ## Installasi
 
 1. Clone Repository
@@ -49,14 +58,7 @@ php artisan serve
 # Jalankan frontend Nuxt 3
 npm run dev
 ```
-## Teknologi yang Digunakan
-1. Nuxt 3: Framework modern untuk pengembangan front-end.
-2. Vue 3: Library JavaScript reaktif untuk antarmuka pengguna.
-3. Tailwind CSS: Framework CSS untuk styling.
-4. Laravel API: Framework PHP untuk pengembangan back-end.
-5. Pinia: State management yang ringan untuk Vue.
-6. Axios: Library untuk melakukan request HTTP ke API.
-7. JavaScript: Bahasa pemrograman utama untuk pengembangan front-end.
+
 ## Hal yang dipelajari dari Projek ini
 1. Pengembangan Front-End dengan Nuxt 3 dan Vue 3:
    - Membuat antarmuka pengguna yang dinamis dan reaktif.
